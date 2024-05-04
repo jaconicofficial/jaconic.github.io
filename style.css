@@ -1,0 +1,34 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Brygada+1918&family=Francois+One&family=Meddon&family=Nanum+Pen+Script&family=Rubik+Broken+Fax&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Ramabhadra&display=swap');
+
+.top{
+    font-family: "Ramabhadra";
+    color:white;
+    text-align: center;
+}
+.menu{
+    font-family: "Ramabhadra";
+    color:white;
+    text-align: center;
+}
+a:link{
+    color:white;
+    text-decoration: none;
+}
+a:visited{
+    color:white;
+    text-decoration: none;
+}
+a:hover{
+    color:red;
+    text-decoration: none;
+}
+a:after{
+    color:white;
+    text-decoration: none;
+}
+.text{
+    font-family: "Ramabhadra";
+    color:white;
+}
